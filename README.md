@@ -8,3 +8,5 @@ print ("the is: ", project)
 <head>
 
 #probar crear una pag blog, para 17 de objetivoss y denass
+
+#podriamoss usar y crear un nuevo archivoo
