@@ -10,3 +10,4 @@ print ("the is: ", project)
 #probar crear una pag blog, para 17 de objetivoss y denass
 
 #podriamoss usar y crear un nuevo archivoo
+#la verdad ya no se que poner o que armar
