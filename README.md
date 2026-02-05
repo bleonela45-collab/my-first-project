@@ -13,3 +13,7 @@ print ("the is: ", project)
 #la verdad ya no se que poner o que armar
 
 va a doler
+
+#Siempre va a doler.
+
+vivimos en un mundo donde tienen normalizado el dolor y que NO esta bien, expresarse mediante llanto, protesta y demas
