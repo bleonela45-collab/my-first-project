@@ -4,3 +4,13 @@ la vida es corta para negarse a vivir.
 seamos.felices y comamos lombrices
 
 la vida del obrero
+
+#podriamos amar, incluso, si no tenemos porque
+
+love = 2
+nolove = 0
+
+if love = 2 so:
+ print ("ds amor", love):
+else
+ print ("nunca fue amor", nolove):
