@@ -17,3 +17,5 @@ va a doler
 #Siempre va a doler.
 
 vivimos en un mundo donde tienen normalizado el dolor y que NO esta bien, expresarse mediante llanto, protesta y demas
+
+#la vida del obrero es asi
