@@ -25,3 +25,5 @@ vivimos en un mundo donde tienen normalizado el dolor y que NO esta bien, expres
 metafora usada en una cancion vieja, llamada homero. es la cancion
 
 si tu te vas y yo me voy, que dios nos libre de amar a quien no nos ama
+
+#Y no se que pasa, la vida sorprende y a veces solo avanza. te juro
