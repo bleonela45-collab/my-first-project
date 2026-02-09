@@ -14,3 +14,5 @@ if love = 2 so:
  print ("ds amor", love):
 else
  print ("nunca fue amor", nolove):
+
+#y si no podemos amar, no lo hagamos. para no herir
