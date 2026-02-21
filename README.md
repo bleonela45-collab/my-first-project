@@ -11,3 +11,4 @@ porque ha sido inculcado. la gente quiere poder y sentir importante ante una mas
 woow this is a diffcicult lufe
 
 #You can, it's your power
+que camino elegis??
