@@ -12,3 +12,5 @@ woow this is a diffcicult lufe
 
 #You can, it's your power
 que camino elegis??
+
+tira la piedra y escondes la mano?? o vas con todo??
