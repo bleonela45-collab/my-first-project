@@ -1,4 +1,4 @@
-solo queda renunciar
+python
 
-saltsr, volar
+If (^)
 
