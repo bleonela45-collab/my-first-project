@@ -2,4 +2,4 @@ python
 
 If (^)
 
-Lpm me re olvide de esto, la concha
+Me lo dijo una gitaana, me lo dijo con fevor
